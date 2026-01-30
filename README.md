@@ -1,12 +1,12 @@
-## 👋 Oi, eu sou a Vitória!
+## 👋 Oi, eu sou a Vitória Mignon!
 
 🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedora Front-end em formação  
+💻 Desenvolvedora Full Stack em formação  
 🚀 Apaixonada por tecnologia e aprendizado contínuo  
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/vitoria.mignon/" target="_blank">
+  <a href="https://www.instagram.com/vitoria.mignon/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" 
       height="35" 
@@ -14,7 +14,7 @@
     />
   </a>
 
-  <a href="mailto:vitoria.smignon@gmail.com">
+  <a href="mailto:vitoria.smignon@gmail.com" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
       height="35" 
@@ -22,7 +22,7 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/vitoria-mignon-b73622303/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitoria-mignon-b73622303/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" 
       height="35" 
@@ -30,7 +30,7 @@
     />
   </a>
 
-  <a href="https://wa.me/5521964740680" target="_blank">
+  <a href="https://wa.me/5521964740680" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" 
       height="35" 
@@ -38,6 +38,7 @@
     />
   </a>
 </div>
+
 
 ###
 ---
